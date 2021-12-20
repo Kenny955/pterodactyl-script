@@ -2,9 +2,9 @@
 Instalando o Pterodactyl em apenas alguns minutos! <br />
 Observe que este script deve ser usado apenas em novas instalações. Você deve executá-lo como root. <br />
 <br />
-`curl -Ls https://api.github.com/repos/TommyTran732/Pterodactyl-Script/releases/latest | grep -wo "https.*install.sh" | wget -qi -` <br />
+<h1> Baixe o install.sh em sua maquina em seguida execute o comando `bash install.sh` a seguir<br />
 <br /> 
-`bash install.sh` <br />
+<h1> continue com a instalação. <br />
 <br />
 Creditos A Grupo Matrix: https://matrix.to/#/#tommytran732:matrix.org
 <br />
