@@ -13,7 +13,9 @@ Este script agora inclui a nova versão do Pterodactyl v1.0 <br/>
 <br/>
 Obs: esta versão do painel se trata da v1.6.2! <br />
 <br>
-Este script também inclui um script de migração para 0,7 a 1,0 e Daemon para Wings
+Este script também inclui um script de migração para 0,7 a 1,0 e Daemon para Wings <br />
+<br />
+Alem Da instalação do phpMyAdmin v5.1.1 que tambem é possivel atraves do script
 <br />
 # Sistemas Operacionais Suportados
 | Sistema operacional  | Versão  | Suportado            | Recomendado        | Notas                                |
